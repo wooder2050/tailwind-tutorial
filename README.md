@@ -1,3 +1,3 @@
 # tailwind-tutorial
 
-All the course files for the Tailwind CSS tutorial on the Net Ninja YouTube channel.
+닌자 체널 강좌
